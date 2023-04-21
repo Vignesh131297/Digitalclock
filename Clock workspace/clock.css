@@ -1,0 +1,34 @@
+.clock p{
+    width: 150px;
+    height: 25px;
+    border: 1px solid black;
+    background-color: chartreuse;
+
+}
+h2{
+    display: inline;
+    color:coral;
+    width: 100px;
+    margin-left: -50px;
+    font-weight: bolder;
+    }
+.button{
+    background-color: black;
+    color: whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 18px;
+    cursor: pointer;
+}
+body{
+    background-color:rgb(250, 13, 13,0.3);
+    margin: 230px ;
+    margin-left:600px; 
+    font-weight: bolder;
+    font-size: large;
+}
+#time{
+    padding: 3px;
+    text-align: center;
+    
+}
